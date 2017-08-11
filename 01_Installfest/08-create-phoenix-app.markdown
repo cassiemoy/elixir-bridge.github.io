@@ -27,8 +27,7 @@ mkdir elixirbridge
 We've made a folder called elixirbridge.
 
 ### Step 3:
-Change to your new elixirbridge directory
-Type this in the terminal:
+Change to your new elixirbridge directory by typing this in the terminal:
 
 ```
 cd elixirbridge
